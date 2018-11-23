@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GameButtonStyle" parent="Theme.AppCompat.NoActionBar" >
+        <item name="android:width">31dp</item>
+        <item name="android:height">31dp</item>
+        <item name="android:background">@drawable/game_button_bg</item>
+        <item name="android:paddingHorizontal">2dp</item>
+        <item name="android:paddingVertical">2dp</item>
+    </style>
+
+    <style name="GameControlEnableButtonStyle" >
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:background">@color/deepPink</item>
+        <item name="android:paddingHorizontal">2dp</item>
+        <item name="android:paddingVertical">2dp</item>
+    </style>
+
+    <style name="GameControlDisableButtonStyle" >
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:background">@color/slightPink</item>
+        <item name="android:paddingHorizontal">2dp</item>
+        <item name="android:paddingVertical">2dp</item>
+    </style>
+</resources>

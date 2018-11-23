@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="USER_STEP">2</integer>
+    <integer name="ROW_KEY">0</integer>
+    <integer name="COLUMN_KEY">1</integer>
+    <integer name="STEP">4</integer>
+    <integer name="ENEMY_STEP">1</integer>
+    <integer name="NONE_STEP">1</integer>
+    <integer name="N_COLUMNS">10</integer>
+    <integer name="N_ROWS">15</integer>
+</resources>

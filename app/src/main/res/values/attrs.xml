@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MessageLayout">
+        <attr name="profilePictureView" format="string" />
+        <attr name="timeTextView" format="string" />
+        <attr name="contentTextView" format="string" />
+    </declare-styleable>
+</resources>
+
+
